@@ -1,0 +1,17 @@
+T: Wed Jun 22 20:11:59 2022 M: Log file opened
+T: Wed Jun 22 20:11:59 2022 M: User did not provide path to the files.
+T: Wed Jun 22 20:11:59 2022 M: Creating the test files for user...
+T: Wed Jun 22 20:11:59 2022 M: Test files are prepared
+T: Wed Jun 22 20:11:59 2022 M: Re-run with correct arguments ie: ./task_iv_ber.exe test1_file1.bin test1_file2.bin
+T: Wed Jun 22 20:11:59 2022 M: Log file closed
+T: Wed Jun 22 20:15:10 2022 M: Log file opened
+T: Wed Jun 22 20:15:10 2022 M: Processing test files
+T: Wed Jun 22 20:15:10 2022 M: Calculating BER...
+T: Wed Jun 22 20:15:10 2022 M: BER calculations are done
+T: Wed Jun 22 20:15:10 2022 M: Results are: 
+BER: 0.125
+Tot: 800
+Err: 100
+Calc time: 0.001 sec 
+
+T: Wed Jun 22 20:15:10 2022 M: Log file closed

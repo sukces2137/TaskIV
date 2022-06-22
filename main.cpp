@@ -72,8 +72,8 @@ int main(int argc, char * argv[])
         */
 
         //test 3
-        //createFile1("test3_file1.bin",400000000,0x55); 
-        //createFile1("test3_file2.bin",400000000,0x50);
+        createFile1("test3_file1.bin",400000000,0x55); 
+        createFile1("test3_file2.bin",400000000,0x50);
         saveLog("Test files are prepared");
         saveLog("Re-run with correct arguments ie: ./task_iv_ber.exe test1_file1.bin test1_file2.bin");
     }

@@ -4,3 +4,15 @@ T: Wed Jun 22 20:07:58 2022 M: Creating the test files for user...
 T: Wed Jun 22 20:07:58 2022 M: Test files are prepared
 T: Wed Jun 22 20:07:58 2022 M: Re-run with correct arguments ie: ./task_iv_ber.exe test1_file1.bin test1_file2.bin
 T: Wed Jun 22 20:07:58 2022 M: Log file closed
+T: Wed Jun 22 20:13:22 2022 M: Log file opened
+T: Wed Jun 22 20:13:22 2022 M: User did not provide path to the files.
+T: Wed Jun 22 20:13:22 2022 M: Creating the test files for user...
+T: Wed Jun 22 20:13:22 2022 M: Test files are prepared
+T: Wed Jun 22 20:13:22 2022 M: Re-run with correct arguments ie: ./task_iv_ber.exe test1_file1.bin test1_file2.bin
+T: Wed Jun 22 20:13:22 2022 M: Log file closed
+T: Wed Jun 22 20:14:09 2022 M: Log file opened
+T: Wed Jun 22 20:14:09 2022 M: User did not provide path to the files.
+T: Wed Jun 22 20:14:09 2022 M: Creating the test files for user...
+T: Wed Jun 22 20:14:09 2022 M: Test files are prepared
+T: Wed Jun 22 20:14:09 2022 M: Re-run with correct arguments ie: ./task_iv_ber.exe test1_file1.bin test1_file2.bin
+T: Wed Jun 22 20:14:09 2022 M: Log file closed
